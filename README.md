@@ -82,11 +82,11 @@ openai.api_key = 'your-api-key-here'
 - Explore fine-tuning options for improved accuracy
 
 ## 🏆 Certificate of Achievement
-My 2nd place certificate can be verified [here](your-verification-link](https://github.com/Aakashdeep-Srivastava/Predicting-Missing-News-Headlines/blob/main/Certificate%20of%20Excellence.png)).
+My 2nd place certificate can be verified [here](your-verification-link](https://github.com/Aakashdeep-Srivastava/Predicting-Missing-News-Headlines/blob/main/Certificate%20of%20Excellence.png).
 
 ## 📫 Contact
 For any questions or collaborations, feel free to reach out:
-- LinkedIn: [Aakashdeep Srivastava](your-linkedin-profile](https://www.linkedin.com/in/skydeep1/))
+- LinkedIn: [Aakashdeep Srivastava](your-linkedin-profile](https://www.linkedin.com/in/skydeep1/)
 - Email: aakashdeep0551@gmail.com
 
 ---
