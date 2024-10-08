@@ -72,7 +72,7 @@ openai.api_key = 'your-api-key-here'
 ![Certificate of Excellence](https://github.com/Aakashdeep-Srivastava/Predicting-Missing-News-Headlines/raw/main/Certificate%20of%20Excellence.png)
 ## 📫 Contact
 For any questions or collaborations, feel free to reach out:
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakashdeep%20Srivastava-blue)](https://www.linkedin.com/in/skydeep1/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakashdeep%20Srivastava-blue)](https://www.linkedin.com/in/skydeep1/)
 - Email: aakashdeep0551@gmail.com
 ---
 If this repository helped you, please give it a ⭐
