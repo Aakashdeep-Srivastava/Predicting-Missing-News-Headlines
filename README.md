@@ -5,7 +5,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-brightgreen)
 
 ## 🎯 Problem Statement
-Developed an AI solution to accurately predict and fill in missing numbers in news headlines using the full article content. This implementation achieved **85% accuracy** using GPT-4, securing 2nd place in the competition.
+Developed an AI solution to accurately predict and fill in missing numbers in news headlines using the full article content. This implementation achieved **86% accuracy** using GPT-4, securing 2nd place in the competition.
 
 ## 🔄 Implementation Flow
 ```mermaid
@@ -43,7 +43,7 @@ flowchart TD
 ## 📊 Model Performance
 | Model | Accuracy |
 |-------|----------|
-| GPT-4 | 87% |
+| GPT-4 | 86% |
 | GPT-3.5-turbo | 72% |
 
 ## 🔧 Implementation
