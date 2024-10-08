@@ -86,7 +86,7 @@ My 2nd place certificate can be verified [here]([your-verification-link](https:/
 
 ## 📫 Contact
 For any questions or collaborations, feel free to reach out:
-- LinkedIn: [Your Name]([your-linkedin-profile](https://www.linkedin.com/in/skydeep1/))
+- LinkedIn: [Aakashdeep Srivastava]([your-linkedin-profile](https://www.linkedin.com/in/skydeep1/))
 - Email: aakashdeep0551@gmail.com
 
 ---
