@@ -49,7 +49,7 @@ flowchart TD
 ## 📊 Model Performance
 | Model | Accuracy |
 |-------|----------|
-| GPT-4 | 85% |
+| GPT-4 | 87% |
 | GPT-3.5-turbo | 72% |
 
 ## 🔧 Implementation
