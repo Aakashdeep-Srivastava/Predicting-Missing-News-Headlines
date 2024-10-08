@@ -40,12 +40,6 @@ flowchart TD
     I --> Model_Options
 ```
 
-## 🚀 Key Features
-- Utilizes OpenAI's GPT models (GPT-4 and GPT-3.5-turbo)
-- Achieves 85% accuracy with GPT-4 (compared to 72% with GPT-3.5-turbo)
-- Processes entire news articles for context-aware predictions
-- Robust error handling and number extraction
-
 ## 📊 Model Performance
 | Model | Accuracy |
 |-------|----------|
@@ -54,7 +48,7 @@ flowchart TD
 
 ## 🔧 Implementation
 The solution is implemented in a Google Colab notebook for easy reproducibility:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-notebook-link-here)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/your-notebook-link-here](https://colab.research.google.com/drive/1-inAgUGKYSNKUYx4wbj3xAj6IlGRNN2-?usp=sharing))
 
 ### Key Components:
 ```python
